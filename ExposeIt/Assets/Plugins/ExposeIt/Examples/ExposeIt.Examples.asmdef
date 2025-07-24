@@ -1,0 +1,17 @@
+{
+    "name": "ExposeIt.Examples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ca809a29eb22354cb9b74ec0dedc447",
+        "GUID:fb366461334049f40aaace74f308aa0a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
