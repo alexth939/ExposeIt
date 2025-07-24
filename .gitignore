@@ -1,14 +1,21 @@
 # Ignore everything
 /ExposeIt/*
 
-# Unignore .gitignore file itself
+# Unignore .gitignore itself
 !.gitignore
 
-# Re-include Assets path but ignore its contents
+# Re-include Assets path, but not its contents
 !/ExposeIt/Assets/
 /ExposeIt/Assets/*
 
-# Re-include Plugins and your plugin specifically
+# Re-include Plugins and your plugin folder
 !/ExposeIt/Assets/Plugins/
 !/ExposeIt/Assets/Plugins/ExposeIt/
 !/ExposeIt/Assets/Plugins/ExposeIt/**
+
+# Ignore ONLY *.meta files directly inside /ExposeIt/Assets/Plugins/
+# (not recursive — doesn't affect your plugin folder)
+/ExposeIt/Assets/Plugins/*.meta
+
+# Ignore release artifacts
+/Releases/
