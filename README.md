@@ -28,7 +28,7 @@ The plugin relies on UI Toolkit-based play mode controls, which Unity adopted in
 
 ### <u>🔘 Static Element</u>
 
-![](C:\Repos\ExposeIt\Docs\Images\static-button.png)
+![](./Docs/Images/static-button.png)
 
 You can declare a static element provider, which will be automatically discovered and injected into the Play Mode zone:
 
@@ -49,7 +49,7 @@ The `IPlayModeZoneElementProvider` interface allows you to choose between predef
 
 ### <u>🏷️ Updatable Label</u>
 
-![](C:\Repos\ExposeIt\Docs\Images\updatable-label.png)
+![Static Button](./Docs/Images/updatable-label.png)
 
 This predefined element lets you display dynamic text that updates at a defined interval:
 
