@@ -1,7 +1,5 @@
 # ExposeIt
 
-# ExposeIt
-
 ExposeIt is a small Unity editor plugin that lets you expose *anything* into the **Play Mode toolbar** area — neatly wrapped in predefined or custom UI Toolkit elements.
 
 No more cluttered context menus, no more temporary custom editors or nested inspectors. Just clean, instantly accessible buttons and fields right where you need them — in plain sight during Play Mode.
