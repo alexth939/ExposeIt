@@ -1,0 +1,16 @@
+{
+    "name": "ExposeIt.Examples.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5ca809a29eb22354cb9b74ec0dedc447"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

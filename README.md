@@ -39,8 +39,6 @@ public class CustomButtonProvider : IPlayModeZoneElementProvider
 
 The `IPlayModeZoneElementProvider` interface allows you to choose between predefined elements or a fully custom `VisualElement` implementation.
 
-
-
 > ⚠️ Note: Buttons do not persist across domain reloads, but will be re-injected automatically on `[InitializeOnLoadMethod]`.
 
 > 💡 See examples for usage.
